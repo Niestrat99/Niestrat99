@@ -5,7 +5,9 @@
   <br>
   <h2>About Me</h2>
   <p>I am a somewhat experienced Minecraft plugin developer from Germany.</p>
-  <p>Aside of that I also have experience in the programming language Luau, which I primarily make use of on the platform called Roblox.</p>  
+  <p>I am also the founder of the rapidly growing Minecraft Server plugin <b>Advanced Teleport</b>, my highly customizable plugin <b>ChatPings</b> and my latest project <b>KeepInventory Individual</b>.</p>
+  
+  <p>Aside of that I also have experience in the programming language Luau, which I primarily make use of on the platform called Roblox.</p>
 </div>
 <br>
 <p>In my free time I spend the time:</p>
