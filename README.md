@@ -5,7 +5,7 @@
   <br>
   <h2>About Me</h2>
   <p>I am a somewhat experienced Minecraft plugin developer from Germany.</p>
-  <p>I am also the founder of the rapidly growing Minecraft Server plugin  <a href="https://github.com/Niestrat99/AT-Rewritten">Advanced Teleport<img src="https://camo.githubusercontent.com/cb893b38b65a970b6677ca3a58b5d9a774c09d90c399ede94962aa68c38d48b9/68747470733a2f2f692e696d6775722e636f6d2f514232465541462e706e67" height=20></a>, my highly customizable plugin <a href="https://github.com/Niestrat99/ChatPings">ChatPings<img src="https://imgur.com/3EIxpcY.png" height=20></a> and my latest project <a href="https://github.com/Niestrat99/KeepInventory-Individual">KeepInventory Individual</a><img src="https://imgur.com/cOVBc2a.png" height=20>.</p>
+  <p>I am also the founder of the rapidly growing Minecraft Server plugin  <a href="https://github.com/Niestrat99/AT-Rewritten">Advanced Teleport<img src="https://cdn.modrinth.com/data/BQFzmxKU/icon.png" height=20></a>, my highly customizable plugin <a href="https://github.com/Niestrat99/ChatPings">ChatPings<img src="https://imgur.com/3EIxpcY.png" height=20></a> and my latest project <a href="https://github.com/Niestrat99/KeepInventory-Individual">KeepInventory Individual</a><img src="https://imgur.com/cOVBc2a.png" height=20>.</p>
   
   <p>Aside of that I also have experience in the programming language Luau, which I primarily make use of on the platform called Roblox.</p>
 </div>
