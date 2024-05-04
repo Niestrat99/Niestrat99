@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Niestrat99/AT-Rewritten"><img src="https://cdn.modrinth.com/data/BQFzmxKU/icon.png" height=100></a> <a href="https://github.com/Niestrat99/ChatPings"><img src="https://imgur.com/3EIxpcY.png" height=100></a> <a href="https://github.com/Niestrat99/KeepInventory-Individual"><img src="https://imgur.com/cOVBc2a.png" height=100></a>
+  <a href="https://github.com/Niestrat99/AT-Rewritten"><img src="https://cdn.modrinth.com/data/BQFzmxKU/icon.png" height=100></a> <a href="https://github.com/Niestrat99/ChatPings"><img src="https://imgur.com/3EIxpcY.png" height=100></a> <a href="https://github.com/Niestrat99/KeepInventory-Individual"><img src="https://imgur.com/cOVBc2a.png" height=100></a> <a href="https://github.com/Niestrat99/ChatsPlus"><img src="https://imgur.com/bbaeaM4.png" height=100></a>
   <br>
   <h1>Aye! I'm Niestrat!</h1>
   <br>
