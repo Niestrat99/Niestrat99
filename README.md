@@ -25,7 +25,7 @@
   <a href='https://ko-fi.com/J3J6EETSI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   <br>
   <h2>My Socials</h2>
-  <a href="https://youtube.com/@niestrat99"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" height=100></a> <a href="https://discord.gg/eu8h3BG"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height=100></a> <a href="https://modrinth.com/user/Niestrat99"><img src="https://avatars.githubusercontent.com/u/67560307?s=200&v=4.png" height=100></a> <a href="https://hangar.papermc.io/Niestrat99"><img src="https://docs.papermc.io/assets/images/papermc-logomark-512-f125384f3367cd4d9291ca983fcb7334.png" height=100></a> <a href="https://www.spigotmc.org/members/niestrat99.190540/"><img src="https://static.spigotmc.org/img/spigot.png" height=100></a>
+  <a href="https://discord.gg/eu8h3BG"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height=100></a> <a href="https://modrinth.com/user/Niestrat99"><img src="https://avatars.githubusercontent.com/u/67560307?s=200&v=4.png" height=100></a> <a href="https://hangar.papermc.io/Niestrat99"><img src="https://docs.papermc.io/assets/images/papermc-logomark-512-f125384f3367cd4d9291ca983fcb7334.png" height=100></a> <a href="https://www.spigotmc.org/members/niestrat99.190540/"><img src="https://static.spigotmc.org/img/spigot.png" height=100></a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Niestrat99&include_all_commits=true&count_private=true">
 </div>
@@ -61,4 +61,6 @@ Here are some ideas to get you started:
  <a href="Link to something">
   <img src="image link" alt="image description" height=100">
 </a> 
+
+<a href="https://youtube.com/@niestrat99"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" height=100></a> Youtube Link
 -->
